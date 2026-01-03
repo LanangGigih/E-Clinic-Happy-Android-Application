@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">E-Clinic Happy</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="belum_punya_akun">Apakah anda Belum memiliki akun?</string>
+    <string name="register">Register</string>
+    <string name="sudah_punya_akun">Apakah anda Sudah memiliki akun?</string>
+    <string name="daftar">Register</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="diagnosa">Diagnosa</string>
+    <string name="solusi">Solusi</string>
+    <string name="hasil_diagnosa">Hasil Diagnosa</string>
+    <string name="bantuan_cara_penggunaan_aplikasi">Panduan penggunaan aplikasi</string>
+    <string name="menu_diagnosa">Fitur Diagnosa</string>
+    <string name="bantuan">Fitur ini digunakan untuk mendiagnosa dengan memilih gejala-gejala yang dirasakan, kemudian tekan tombol Diagnosa untuk melihat hasilnya</string>
+    <string name="bantuan2">Fitur ini memungkinkan pengguna melihat daftar lengkap penyakit kandungan dan mengakses informasi detail tentang masing-masing penyakit</string>
+    <string name="bantuan3">Di fitur ini, pengguna dapat melihat daftar riwayat diagnosa yang pernah dilakukan sebelumnya</string>
+    <string name="bantuan4">Fitur ini menampilkan informasi lengkap mengenai pengembang aplikasi</string>
+    <string name="menu_daftar_penyakit">Fitur Daftar Penyakit</string>
+    <string name="menu_riwayat_diagnosa">Fitur Riwayat Diagnosa</string>
+    <string name="menu_about">Fitur Tentang Aplikasi</string>
+    <string name="error_password_8">Input password min 4 character</string>
+    <string name="error_min_4_char">Input min 4 character!</string>
+    <string name="error_username">Input the right username min 4 character!</string>
+    <string name="image_login">Image Login</string>
+    <string name="login_untuk_melanjutkan">Login to Continue!</string>
+    <string name="txt_ready">please log in first</string>
+    <string name="username_hint">Input Your Username</string>
+    <string name="password_hint">Input Your Password</string>
+    <string name="txt_daftar" translatable="false">Don\'t Have Account?</string>
+    <string name="image_register">gambar daftar</string>
+    <string name="txt_lengkapi_data_diri">Please fill in your personal data!</string>
+    <string name="txt_email">Email</string>
+    <string name="input_your_email">Input Your Email</string>
+    <string name="txt_username">Input Your Username</string>
+    <string name="txt_regis_now">Register Now</string>
+    <string name="txt_login_now" translatable="false">Have Account?</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="main_menu" translatable="false">Main Menu</string>
+    <string name="mode">night mode\n</string>
+    <string name="error_email">Input the right email!</string>
+
+</resources>
