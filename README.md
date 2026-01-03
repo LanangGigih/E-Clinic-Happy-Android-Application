@@ -44,7 +44,7 @@ Image quality is limited due to document export constraints.
 
 | Login | Diagnosis | Diagnosis Result |
 |------|----------|------------------|
-| ![](docs/screenshots/login.jpg) | ![](docs/screenshots/diagnosa.jpg) | ![](docs/screenshots/result.png) |
+| ![](docs\screenshoots\login.jpg) | ![](docs\screenshoots\diagnosa.jpg) | ![](docs\screenshoots\result.png) |
 
 ---
 
